@@ -1,5 +1,5 @@
 
-package com.hellohasan.forthclass;
+package com.hellohasan.forthclass.ModelClass;
 
 import android.os.Parcel;
 import android.os.Parcelable;
