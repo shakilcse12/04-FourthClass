@@ -1,3 +1,15 @@
+/**
+ * Android Ninja - Class No: 4
+ * Date: 26 August, 2017
+ *
+ * Topics:
+ - `ButterKnife` Library to reduce boilerplate code
+ - Phone call
+ - Run time permission for phone call
+ - Send a POST request to a PHP server and receive a response
+ - Update UI from another class using `interface`
+ */
+
 package com.hellohasan.forthclass.UiClass;
 
 import android.Manifest;
